@@ -1,0 +1,444 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "pages": 30,
+        "next": 7
+      },
+      "results": [
+        {
+          "id": "101",
+          "name": "E. Coli",
+          "gender": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/101.jpeg",
+          "species": "Disease",
+          "type": "",
+          "origin": {
+            "name": "Anatomy Park"
+          },
+          "location": {
+            "id": "5",
+            "name": "Anatomy Park"
+          },
+          "episode": [
+            {
+              "name": "Anatomy Park",
+              "episode": "S01E03"
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "name": "Donna Gueterman",
+          "gender": "Female",
+          "image": "https://rickandmortyapi.com/api/character/avatar/102.jpeg",
+          "species": "Robot",
+          "type": "",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "35",
+            "name": "Planet Squanch"
+          },
+          "episode": [
+            {
+              "name": "The Wedding Squanchers",
+              "episode": "S02E10"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "name": "Doofus Rick",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/103.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Earth (J19ζ7)"
+          },
+          "location": {
+            "id": "20",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind",
+              "episode": "S01E10"
+            },
+            {
+              "name": "The Rickshank Rickdemption",
+              "episode": "S03E01"
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "name": "Doom-Nomitron",
+          "gender": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/104.jpeg",
+          "species": "Alien",
+          "type": "Shapeshifter",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "29",
+            "name": "Dorian 5"
+          },
+          "episode": [
+            {
+              "name": "Vindicators 3: The Return of Worldender",
+              "episode": "S03E04"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "name": "Dr. Glip-Glop",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/105.jpeg",
+          "species": "Alien",
+          "type": "",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "16",
+            "name": "St. Gloopy Noops Hospital"
+          },
+          "episode": [
+            {
+              "name": "Interdimensional Cable 2: Tempting Fate",
+              "episode": "S02E08"
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "name": "Dr. Schmidt",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/106.jpeg",
+          "species": "Human",
+          "type": "Game",
+          "origin": {
+            "name": "Roy: A Life Well Lived"
+          },
+          "location": {
+            "id": "32",
+            "name": "Roy: A Life Well Lived"
+          },
+          "episode": [
+            {
+              "name": "Mortynight Run",
+              "episode": "S02E02"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "name": "Dr. Wong",
+          "gender": "Female",
+          "image": "https://rickandmortyapi.com/api/character/avatar/107.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "id": "20",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Pickle Rick",
+              "episode": "S03E03"
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "name": "Dr. Xenon Bloom",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/108.jpeg",
+          "species": "Humanoid",
+          "type": "Amoeba-Person",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "5",
+            "name": "Anatomy Park"
+          },
+          "episode": [
+            {
+              "name": "Anatomy Park",
+              "episode": "S01E03"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "name": "Duck With Muscles",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/109.jpeg",
+          "species": "Parasite",
+          "type": "Alien",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "20",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Total Rickall",
+              "episode": "S02E04"
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "name": "Eli",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/110.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Post-Apocalyptic Earth"
+          },
+          "location": {
+            "id": "8",
+            "name": "Post-Apocalyptic Earth"
+          },
+          "episode": [
+            {
+              "name": "Rickmancing the Stone",
+              "episode": "S03E02"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "name": "Eli's Girlfriend",
+          "gender": "Female",
+          "image": "https://rickandmortyapi.com/api/character/avatar/111.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Post-Apocalyptic Earth"
+          },
+          "location": {
+            "id": "8",
+            "name": "Post-Apocalyptic Earth"
+          },
+          "episode": [
+            {
+              "name": "Rickmancing the Stone",
+              "episode": "S03E02"
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "name": "Eric McMan",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/112.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "episode": [
+            {
+              "name": "Anatomy Park",
+              "episode": "S01E03"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "name": "Eric Stoltz Mask Morty",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/113.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Eric Stoltz Mask Earth"
+          },
+          "location": {
+            "id": "20",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind",
+              "episode": "S01E10"
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "name": "Ethan",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/114.jpeg",
+          "species": "Human",
+          "type": "Cronenberg",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "episode": [
+            {
+              "name": "Anatomy Park",
+              "episode": "S01E03"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "name": "Ethan",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/115.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "id": "20",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Get Schwifty",
+              "episode": "S02E05"
+            },
+            {
+              "name": "The Whirly Dirly Conspiracy",
+              "episode": "S03E05"
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "name": "Evil Beth Clone",
+          "gender": "Female",
+          "image": "https://rickandmortyapi.com/api/character/avatar/116.jpeg",
+          "species": "Human",
+          "type": "Clone",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "episode": [
+            {
+              "name": "Meeseeks and Destroy",
+              "episode": "S01E05"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "name": "Evil Jerry Clone",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/117.jpeg",
+          "species": "Human",
+          "type": "Clone",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "episode": [
+            {
+              "name": "Meeseeks and Destroy",
+              "episode": "S01E05"
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "name": "Evil Morty",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg",
+          "species": "Human",
+          "type": "",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind",
+              "episode": "S01E10"
+            },
+            {
+              "name": "The Ricklantis Mixup",
+              "episode": "S03E07"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "name": "Evil Rick",
+          "gender": "Male",
+          "image": "https://rickandmortyapi.com/api/character/avatar/119.jpeg",
+          "species": "Humanoid",
+          "type": "Robot",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind",
+              "episode": "S01E10"
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "name": "Evil Summer Clone",
+          "gender": "Female",
+          "image": "https://rickandmortyapi.com/api/character/avatar/120.jpeg",
+          "species": "Human",
+          "type": "Clone",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "episode": [
+            {
+              "name": "Meeseeks and Destroy",
+              "episode": "S01E05"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

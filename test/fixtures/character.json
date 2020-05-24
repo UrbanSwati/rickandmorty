@@ -1,0 +1,31 @@
+{
+    "data": {
+      "character": {
+        "id": "5",
+        "name": "Jerry Smith",
+        "status": "Alive",
+        "species": "Human",
+        "type": "",
+        "gender": "Male",
+        "origin": {
+          "name": "Earth (Replacement Dimension)"
+        },
+        "location": {
+          "id": "20",
+          "name": "Earth (Replacement Dimension)"
+        },
+        "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+        "episode": [
+          {
+            "name": "Rick Potion #9",
+            "episode": "S01E06"
+          },
+          {
+            "name": "Raising Gazorpazorp",
+            "episode": "S01E07"
+          }
+        ],
+        "created": "2017-11-04T19:26:56.301Z"
+      }
+    }
+  }

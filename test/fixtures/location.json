@@ -1,0 +1,68 @@
+{
+    "data": {
+      "location": {
+        "name": "Immortality Field Resort",
+        "type": "Resort",
+        "dimension": "unknown",
+        "residents": [
+          {
+            "id": "23",
+            "name": "Arcade Alien",
+            "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg",
+            "status": "unknown",
+            "species": "Alien",
+            "location": {
+              "name": "Immortality Field Resort"
+            },
+            "episode": [
+              {
+                "name": "Mortynight Run"
+              },
+              {
+                "name": "Interdimensional Cable 2: Tempting Fate"
+              },
+              {
+                "name": "The Wedding Squanchers"
+              },
+              {
+                "name": "Vindicators 3: The Return of Worldender"
+              },
+              {
+                "name": "The Whirly Dirly Conspiracy"
+              }
+            ]
+          },
+          {
+            "id": "204",
+            "name": "Lisa",
+            "image": "https://rickandmortyapi.com/api/character/avatar/204.jpeg",
+            "status": "Dead",
+            "species": "Alien",
+            "location": {
+              "name": "Immortality Field Resort"
+            },
+            "episode": [
+              {
+                "name": "The Whirly Dirly Conspiracy"
+              }
+            ]
+          },
+          {
+            "id": "320",
+            "name": "Shnoopy Bloopers",
+            "image": "https://rickandmortyapi.com/api/character/avatar/320.jpeg",
+            "status": "unknown",
+            "species": "Alien",
+            "location": {
+              "name": "Immortality Field Resort"
+            },
+            "episode": [
+              {
+                "name": "The Whirly Dirly Conspiracy"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
